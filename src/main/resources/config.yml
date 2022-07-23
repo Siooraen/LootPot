@@ -1,0 +1,18 @@
+# 更新延迟  (单位: 秒)
+update-delay: 300
+
+# 开启的世界
+world: 'world'
+
+# 掉落物品的坐标偏差
+drop-offset:
+  x: 0.0
+  # y坐标只会向上偏移
+  y: 0.0
+  z: 0.0
+
+# 掉落物品时的声音
+sound:
+  id: ENTITY_EXPERIENCE_ORB_PICKUP
+  volume: 1f
+  pitch: 2f
